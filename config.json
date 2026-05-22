@@ -1,9 +1,9 @@
 {
-  "minAndroidVersionCode": 5,
-  "minIosBuildNumber": "5",
-  "minVersion": "1.0.5",
-  "updateUrlAndroid": "https://drive.google.com/file/d/1kj8P7m668zv18i4ziByr2UPhZZQjYzYg/view?usp=sharing",
+  "minAndroidVersionCode": 6,
+  "minIosBuildNumber": "6",
+  "minVersion": "1.0.6",
+  "updateUrlAndroid": "https://drive.google.com/file/d/16aPuyqx7QzKJphN75XYEWriSe8TOdYPc/view?usp=sharing",
   "updateUrlIos": "https://apps.apple.com/app/id6503939633",
   "title": "Cập nhật ứng dụng",
-  "message": "Đã có phiên bản mới v1.0.5 của GoG Flow. Vui lòng cập nhật để tiếp tục sử dụng dịch vụ."
+  "message": "Đã có phiên bản mới v1.0.6 của GoG Flow. Vui lòng cập nhật để tiếp tục sử dụng dịch vụ."
 }
